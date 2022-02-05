@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413500055898",
+    "project_id": "chaka-473c1",
+    "storage_bucket": "chaka-473c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413500055898:android:3bcba60f2af26d40629363",
+        "android_client_info": {
+          "package_name": "com.example.chaka_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413500055898-cqnnqur700sq11bmf63kredqvtc0vedo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDnx4r4z-0jZYMTZnhv5RstwOLUu0cIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413500055898-cqnnqur700sq11bmf63kredqvtc0vedo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
